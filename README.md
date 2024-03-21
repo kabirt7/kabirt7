@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: a SpringBoot post-code API, an Employee List Full-Stack Project, updating my profile with informative READMEs
+🔭 I’m currently working on: a SpringBoot post-code API, an Employee List Full-Stack Project, updating my profile with informative READMEs
 
 <!--
 **kabirt7/kabirt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
