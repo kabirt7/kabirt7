@@ -4,7 +4,7 @@
 
 🌱 I’m currently focusing on improving my RESTful API creation with SpringBoot and overall Java competency
 
-😄 Check out my "to-do-list" repository for my most recently completed project!
+😄 Check out my "to-do-app" repository for my most recently completed project!
 
 <!--
 **kabirt7/kabirt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
