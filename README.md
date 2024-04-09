@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😄 Check out the "to-do-app" repository for my most recently completed project!
+😄 Check out the "to-do-app" or "postcode-api" repositories for my recently completed projects!
 
-🔭 I’m currently working on: a SpringBoot post-code API, an Employee List Full-Stack Project, updating my older projects with informative READMEs.
+🔭 I’m currently working on: an Employee Creator Full-Stack Project, updating my older projects with informative READMEs.
 
 🌱 I’m currently focusing on: RESTful API creation with SpringBoot.
 
