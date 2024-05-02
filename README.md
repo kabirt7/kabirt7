@@ -1,8 +1,8 @@
 💖 Check out "employee-creator", "to-do-app" or "postcode-api" repositories for my full-stack projects!
 
-🔭 I’m currently working on: an Employee Creator Full-Stack Project, updating my older projects with informative READMEs.
+🔭 I’m currently working on: hosting my TSX/Springboot/mySQL Employee Creator Full-Stack Project (MVP complete). Containerising with Docker and deploying on AWS.
 
-🌱 I’m currently focusing on: RESTful API creation with SpringBoot.
+🌱 I’m currently focusing on: deployment (Azure & AWS), CI/CD. 
 
 <!--
 **kabirt7/kabirt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
