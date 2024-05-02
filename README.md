@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 Check out the "to-do-app" or "postcode-api" repositories for my recently completed projects!
+😄 Check out "employee-creator" "to-do-app" or "postcode-api" repositories for my full-stack projects!
 
 🔭 I’m currently working on: an Employee Creator Full-Stack Project, updating my older projects with informative READMEs.
 
