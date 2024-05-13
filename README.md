@@ -1,4 +1,4 @@
-💖 Check out "employee-creator", "to-do-app" or "postcode-api" repositories for my full-stack projects!
+💖 Check out "employee-creator", "to-do-app" or "postcode-api" repositories for my recent projects!
 
 🔭 I’m currently working on: hosting my TSX/Springboot/mySQL Employee Creator Full-Stack Project (MVP complete). Containerised with Docker and now working on deploying on an EC2 instance.
 
