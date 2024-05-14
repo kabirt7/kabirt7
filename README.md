@@ -1,6 +1,6 @@
 portfolio-site: https://stellular-cuchufli-a53c45.netlify.app/
 
-💖 Check out "employee-creator", "to-do-app" or "postcode-api" for my recent projects!
+💥 Check out "employee-creator", "to-do-app" or "postcode-api" for my recent projects!
 
 🔭 I’m currently working on: hosting my "employee-creator" TSX/Springboot/mySQL Project (MVP complete). Containerised with Docker and now working on deploying on an EC2 instance. In the process of adding in a login page with different user roles.
 
