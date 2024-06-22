@@ -1,4 +1,4 @@
-portfolio-site: [https://stellular-cuchufli-a53c45.netlify.app/](https://kabirt.netlify.app/)
+portfolio-site: (https://kabirt.netlify.app/)
 
 📀 Check out "employee-creator", "to-do-app" or "postcode-api" for my recent projects!
 
