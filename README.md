@@ -1,6 +1,6 @@
 portfolio-site: (https://kabirt.netlify.app/)
 
-📀 Check out "employee-creator", "to-do-app" or "postcode-api" for my recent projects!
+📀 Check out "employee-creator", "recipe-diary" for my recent projects!
 
 <!--
 **kabirt7/kabirt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
