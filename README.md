@@ -1,6 +1,7 @@
+📀 Check out "employee-creator", "csv-parser-cli", "recipe-diary-app" for my recent projects!
+
 portfolio-site: (https://kabirt.netlify.app/)
 
-📀 Check out "employee-creator", "recipe-diary-app" for my recent projects!
 
 <!--
 **kabirt7/kabirt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
