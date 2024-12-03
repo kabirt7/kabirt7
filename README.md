@@ -3,10 +3,11 @@
 * "postcode-api" is a full-stack app and is containerised using Docker Compose 
 * "employee-creator" is a full-stack app and is hosted using an Azure CI/CD Pipeline
 
+<!--
 portfolio-site: (https://kabirt.netlify.app/)
 
 
-<!--
+
 **kabirt7/kabirt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
