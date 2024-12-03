@@ -1,4 +1,4 @@
-📀 Check out "employee-creator", "csv-parser-cli", "recipe-diary-app" for my recent projects!
+📀 Check out "employee-creator", "csv-parser-cli", "recipe-diary-app" for my recent projects! I've recently containerised my "postcode-api" project and re-hosted my "employee-creator" on Azure. Check out their respective READMEs for more info
 
 portfolio-site: (https://kabirt.netlify.app/)
 
