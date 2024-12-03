@@ -1,6 +1,7 @@
-📀 Check out "employee-creator", "csv-parser-cli", "recipe-diary-app" for my recent projects! 
+📀 Check out "employee-creator" (containerised with docker-compose), "csv-parser-cli", "postcode-api" (hosted using Azure CI/CD Pipeline) for my recent projects! 
 
-📀 I've containerised my "postcode-api" project using Docker Compose and re-hosted my "employee-creator" using an Azure CI/CD Pipeline. Check out their respective READMEs for more info
+* "postcode-api" is a full-stack app and is containerised using Docker Compose 
+* "employee-creator" is a full-stack app and is hosted using an Azure CI/CD Pipeline
 
 portfolio-site: (https://kabirt.netlify.app/)
 
