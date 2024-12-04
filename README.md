@@ -1,4 +1,4 @@
-📀 Check out "employee-creator", "csv-parser-cli", "postcode-api" for my recent projects! 
+📀 Check out "postcode-api", "employee-creator", "csv-parser-cli" for my recent projects! 
 
 * "postcode-api" is a full-stack app and is containerised using Docker Compose 
 * "employee-creator" is a full-stack app and is hosted using an Azure CI/CD Pipeline
